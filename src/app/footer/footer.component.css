@@ -1,0 +1,23 @@
+footer {
+    background: #21281f;
+    padding: 10px 0;
+    padding-right: 15%;
+    padding-left: 15%;
+  }
+  footer a {
+    color: #70726F;
+    font-size: 20px;
+    
+    float:right;
+    margin-left: 10px;
+    
+   
+    transition: all .5s ease;
+  }
+    footer a:hover {
+    color: white;
+  }
+  footer span {
+      color:white;
+      
+  }

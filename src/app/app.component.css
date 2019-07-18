@@ -1,0 +1,7 @@
+.filler {
+    flex: 1 1 auto;
+    position: static;
+ }
+ .gap {
+    margin-right: 10px;
+ }

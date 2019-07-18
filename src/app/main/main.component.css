@@ -1,0 +1,33 @@
+.main {
+    background-color:white;
+    color:black;
+    padding:30px;
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+  }
+  
+ 
+ 
+  .col-sm-4 {
+    margin-top:50px;
+}
+#setul2{
+    padding-right:15%;
+    background-color:#eeeeee;
+    padding-left:15%;
+    position: relative; 
+    
+   }
+   
+    
+   
+   #setul2 .content {
+    position: absolute; 
+    bottom: 0; 
+    width: 100%; /* Full width */
+    padding: 1%; /* Some padding */
+  }
